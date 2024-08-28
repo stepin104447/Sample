@@ -1,0 +1,31 @@
+{
+    "patterns":[
+        {
+            "name": "Pattern1",
+            "regex":[
+                "payload1",
+                "payload4",
+                "payload6"
+            ]
+
+        },
+
+        {
+            "name": "Pattern2",
+            "regex":[
+                "payload2",
+                "payload3",
+                "payload10"
+            ]
+        },
+
+        {
+            "name": "Pattern3",
+            "regex":[
+                "payload21",
+                "payload3",
+                "payload10"
+            ]
+        }
+]
+}

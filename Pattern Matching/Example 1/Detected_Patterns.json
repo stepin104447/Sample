@@ -1,0 +1,18 @@
+[
+  {
+    "pattern_name": "Pattern1",
+    "matched_regexes": [
+      "payload1",
+      "payload4",
+      "payload6"
+    ]
+  },
+  {
+    "pattern_name": "Pattern2",
+    "matched_regexes": [
+      "payload2",
+      "payload3",
+      "payload10"
+    ]
+  }
+]
